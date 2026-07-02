@@ -188,6 +188,7 @@ The full feature overview and demonstration of the application:
 
 **Feature Overview PPT:** https://drive.google.com/file/d/1ulNPnsohvbAqMu77AO-VjfObuZ0vhLg_/view?usp=sharing
 
+**Demo Video:** https://drive.google.com/file/d/1fAt5jdjORuTCTYWRPWUcW670atxDpbSM/view
 
 ---
 
